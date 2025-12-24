@@ -1,7 +1,7 @@
 # Notas de Vuelo
 
 Altura objetivo: ~37 km  
-Temperatura esperada: -50 °C  
+Temperatura esperada: -50 -70 °C  
 Presión esperada: < 10 mbar  
 
 La cápsula debe:
